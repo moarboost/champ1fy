@@ -1,5 +1,5 @@
 """
-WSGI config for Champ1fy project.
+WSGI config for champ1fy project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Champ1fy.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'champ1fy_project.settings')
 
 application = get_wsgi_application()
