@@ -1,1 +1,1 @@
-web: gunicorn champ1fy_project.wsgi
+web: gunicorn champify_project.wsgi

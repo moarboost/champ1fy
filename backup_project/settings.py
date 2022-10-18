@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'champ1fy_project.urls'
+ROOT_URLCONF = 'champify_project.urls'
 
 TEMPLATES = [
     {
@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'champ1fy_project.wsgi.application'
+WSGI_APPLICATION = 'champify_project.wsgi.application'
 
 
 # Database
