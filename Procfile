@@ -1,1 +1,1 @@
-web: gunicorn champify_project.wsgi
+web: gunicorn spotify_project.wsgi
